@@ -1,14 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
 
-void PrintPattern(int n)
-{
-}
+using namespace std;
 
 int main()
 {
-    int n = 0;
-    PrintPattern(n);
+   
 
     return 0;
 }
