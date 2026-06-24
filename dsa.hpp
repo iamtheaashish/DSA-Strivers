@@ -1,0 +1,46 @@
+#ifndef DSA_HPP
+#define DSA_HPP
+
+#include <iostream>
+#include <vector>
+#include <array>
+#include <string>
+#include <algorithm>
+#include <cmath>
+#include <queue>
+#include <stack>
+#include <deque>
+#include <set>
+#include <map>
+#include <unordered_set>
+#include <unordered_map>
+#include <numeric>
+#include <limits>
+#include <iomanip>
+#include <bitset>
+#include <functional>
+#include <climits>
+#include <cstring>
+#include <cassert>
+#include <fstream>
+#include <sstream>
+#include <list>
+#include <forward_list>
+#include <tuple>
+#include <utility>
+#include <iterator>
+#include <memory>
+#include <random>
+#include <chrono>
+#include <exception>
+#include <stdexcept>
+#include <typeinfo>
+#include <type_traits>
+#include <cctype>
+#include <cstdio>
+#include <cstdlib>
+#include <cstdint>
+#include <cstddef>
+#include <float.h>
+
+#endif

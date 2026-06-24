@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include "../dsa.hpp"
 using namespace std;
 
 void f(vector<int>& a, int l, int r)

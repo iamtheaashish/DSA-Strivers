@@ -1,7 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
+#include "../dsa.hpp"
 
 using namespace std;
 

@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include "../dsa.hpp"
 using namespace std;
 
 int f(int n)
